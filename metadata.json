@@ -1,0 +1,6 @@
+{
+  "name": "PEAK",
+  "description": "Una experiencia digital cinematográfica de Inteligencia Artificial, Trading Algorítmico y Aclimatación Financiera en Alta Montaña.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
